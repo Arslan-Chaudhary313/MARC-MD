@@ -1,0 +1,10 @@
+{
+  "timezone": "Asia/Karachi",
+  "prayers": {
+    "fajr": "05:30",
+    "dhuhr": "13:15",
+    "asr": "16:15",
+    "maghrib": "17:30",
+    "isha": "19:15"
+  }
+}
